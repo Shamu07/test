@@ -1,0 +1,92 @@
+1. typevariableName = Value;
+
+2.no
+
+3.yes
+
+4.no
+
+5.It allows us to pass information or parameters to our Java program from the command line.
+
+6. yes
+
+7.no
+
+8.no
+
+9. 	int[] myArray = {1, 2, 3, 4, 5};
+	System.out.println(myArray[0]);
+	myArray[0] = 10;
+	System.out.println(Arrays.toString(myArray)); 
+
+
+10.error
+
+11. * save the file with the exrension of java
+    * compile the file using java compiler,it will convert into the byte code
+    * LATER JVM HELPS TO CONVERT INTO MACHINE language and program will excecute
+
+12.  java c convert the source code into byte code 
+	java is a high-level language,object oriented programming language, because translation of code takes place into machine language using compiler or interpreter.
+
+13.In Java, a class loader is a part of the Java Runtime Environment (JRE)  which is responsible for loading Java classes into memory at runtime
+
+14.
+
+15. because it has  primitive data types, we use static keywords 
+
+16
+	 JDK : JDK(java development kit) it is a kit which provide the tools, libraries,and component to run the java program.
+
+	JRE: JRE(java Runtime Environment) it is a software package which provides the necessary runtime environment to run java program.
+	
+	JVM : JVM(java virtual machine) it is a component of java platform which acts as java runtime environment for executing java bytecode.
+
+17.initialization method
+
+18.yes
+
+19java converts the program file to class file that is byte code
+
+20.nothing is going to happen we can write it
+
+21.jvm is java virtual machine which is run time enviroment for compiled java class files it helps computer run program which is written in other language that is later compiled as bytecode
+
+22.A class member is declared with an access modifier to specify how it is accessed by the other classes in Java
+
+23.
+
+24.
+
+25.variable is a container which store the data values
+
+26.heap
+
+27.type variableName = value;
+ Where type is one of Java's types  and variableName is the name of the variable 
+ equal sign is used to assign values to the variable.
+
+28.it is necessary because compiler checks all the elements
+
+29.byte,int short ,char,boolean,long,float
+
+30 it converts bytecode to machine code
+
+31.its is defined as block of code
+
+32.WORA = write once read anywhere
+
+33.we can check the version in cmd
+
+34.java20
+
+35.it is a blueprint of creating a object
+
+36.object is the instance of class
+
+37.class className { //Body of the class }
+
+38. ClassName object = new ClassName();
+
+39.it is used to create the instances of class
+
