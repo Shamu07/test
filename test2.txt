@@ -1,0 +1,108 @@
+1. MATERNAL UNCLE
+
+2. father in law
+
+3.brother
+
+4.brother
+
+5.son in law
+
+6.X*A+Y
+
+7.R
+
+8.brother
+
+10.father
+
+11. 5 km
+
+12.west
+
+13.north east
+
+14.south east
+
+								JAVA
+
+1) the output of the program is error int cannot be converted to boolean
+
+2)10,110
+
+3) true
+
+4)main method is called by the jvm even before the installation of class hence it is declared as static
+
+5)
+
+public class ReverseArray {  
+    public static void main(String[] args) {   
+        int [] arr = new int [] {1, 2, 3, 4, 5,8};  
+        System.out.println("Original array: ");  
+        for (int i = 0; i < arr.length; i++) {  
+            System.out.print(arr[i] + " ");  
+        }  
+        System.out.println();  
+        System.out.println("Array in reverse order: ");  
+        for (int i = arr.length-1; i >= 0; i--) {  
+            System.out.print(arr[i] + " ");  
+        }  
+    }  
+} 
+
+
+6)
+
+
+
+7) if the ans is true it will done if the ans is false it will print fail
+
+8) this: It is a reference to the current instance of a class and It is used to refer to instance variables or methods within the same class.
+    this(): It is used to invoke a constructor from another constructor in the same class. It allows constructors to call other constructors to avoid code duplication.
+
+9)class NumberSwapper {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 20;
+
+        System.out.println("Before");
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        a = a + b;
+        b = a - b;
+        a = a - b;
+	 System.out.println("After swapping:");
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+    }
+}
+
+10)
+class PatternPrinter {
+    public static void main(String[] args) {
+        System.out.println("&                 &");
+        System.out.println("          &");
+        System.out.println("&                  &");
+    }
+}
+
+11)
+class PatternPrinter {
+    public static void main(String[] args) {
+        System.out.println("% % %");
+        System.out.println("% & %");
+	System.out.println("% % %");
+    }
+}
+
+12)class PatternPrinter {
+    public static void main(String[] args) {
+        System.out.println("% % %");
+        System.out.println("%   %");
+	System.out.println("% % %");
+    }
+}
+
+
+
